@@ -1,0 +1,89 @@
+
+
+body {
+	   text-align: center;
+	   background-color: lightpink;
+	   font-family: Ink Free;
+	
+}
+
+img {
+  border: 2px solid #333;
+  border-radius: 10px;
+
+}
+
+#nicetitle {
+	
+   color: #fff;
+   font-family: 'freight-big-pro';
+   font-size: 100px;
+   font-weight: normal;
+   letter-spacing: -6.5px;
+   overflow-wrap: break-world;
+   margin: 30px; 
+}
+
+img {
+	   border: 2px solid #333;
+	   border-radius: 10px;
+	   
+	
+}
+
+#littletitle {
+	
+	   color: #fff;
+      font-size: 50px;
+   font-weight: normal;
+   margin: 30px;
+}  
+
+
+
+
+
+
+#family {
+	
+	   color: #fff;
+   font-family: margin-bottom;
+   font-size: 100px;
+   font-weight: margin-bottom;
+     overflow-wrap: margin-bottom
+	 
+	 
+
+}
+	
+#myboyfriend {
+
+   color: #fff;
+   font-family: 'freight-big-pro';
+   font-size: 100px;
+   font-weight: normal;
+   overflow-wrap: break-world;
+   margin: 30px;
+
+
+
+
+
+}	
+
+p {
+    font-size: 16px;
+    line-height: 1.5;
+    color: #333;
+}
+
+body {
+    background-color: #ff66b2; /* Fallback color */
+    background-image: 
+        radial-gradient(ellipse at center, #ffd6e5 0%, #ff99cc 100%),
+        radial-gradient(ellipse at 50% 50%, #ff99cc 0%, #ff66b2 100%);
+    background-blend-mode: overlay;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
