@@ -15,10 +15,10 @@ img {
 
 #nicetitle {
 	
-   color: #fff;
-   font-family: 'freight-big-pro';
+   color: #EFFBF8;
+   font-family: calibri;
    font-size: 100px;
-   font-weight: normal;
+   font-weight: bold;
    letter-spacing: -6.5px;
    overflow-wrap: break-world;
    margin: 30px; 
@@ -33,9 +33,9 @@ img {
 
 #littletitle {
 	
-	   color: #fff;
+	   color: #A9F5F2;
       font-size: 50px;
-   font-weight: normal;
+   font-weight: margin-bottom;
    margin: 30px;
 }  
 
@@ -46,11 +46,11 @@ img {
 
 #family {
 	
-	   color: #fff;
+	   color: #A9F5F2;
    font-family: margin-bottom;
    font-size: 100px;
    font-weight: margin-bottom;
-     overflow-wrap: margin-bottom
+     overflow-wrap: margin-bottom;
 	 
 	 
 
@@ -58,11 +58,11 @@ img {
 	
 #myboyfriend {
 
-   color: #fff;
+   color: #A9F5F2;
    font-family: 'freight-big-pro';
    font-size: 100px;
    font-weight: normal;
-   overflow-wrap: break-world;
+   overflow-wrap: margin-bottom;
    margin: 30px;
 
 
@@ -86,4 +86,45 @@ body {
     background-size: cover;
     background-repeat: no-repeat;
 }
+
+
+header {
+  background-color: #3498db;
+  color: #fff;
+  padding: 10px;
+  text-align: center;
+}
+
+main {
+  padding: 10px;
+  font-size: 18px;
+  line-height: 1.6;
+}
+
+footer {
+  text-align: center;
+  padding: 10px;
+  background-color: #f2f2f2;
+}
+
+
+}
+
+#wrapper {
+  width: 960px;
+  margin: 0 auto;
+}
+
+#navigation {
+  width: 960px;
+  font-size: 18px;
+  margin: 20px auto;
+  text-align: center;
+}
+
+
+body {
+  background-image: url(background.jpg);
+}
+
 
